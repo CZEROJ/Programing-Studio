@@ -1,0 +1,25 @@
+# .clang-format
+BasedOnStyle: Google
+IndentWidth: 4
+TabWidth: 4
+UseTab: Never
+ColumnLimit: 80
+AllowAllParametersOfDeclarationOnNextLine: true
+BreakBeforeBraces: Allman
+BraceWrapping:
+  AfterFunction: true
+  AfterStruct: true
+  AfterClass: true
+  AfterControlStatement: true
+  BeforeElse: true
+  AfterEnum: true
+  AfterUnion: true
+  BeforeWhile: true
+  BeforeCatch: true
+  AfterCatch: true
+  AfterLambda: true
+SpaceBeforeParens: ControlStatements
+SpaceAfterCStyleCast: true
+SpacesBeforeTrailingComments: 2
+PointerAlignment: Left
+Cpp11: true
