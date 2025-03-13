@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/chsy1/Desktop/programing studio",
-      "program": "c:/Users/chsy1/Desktop/programing studio/build/Debug/outDebug",
+      "cwd": "c:/비주얼스튜디오/programing_studio/2weekHW/A",
+      "program": "c:/비주얼스튜디오/programing_studio/2weekHW/A/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
